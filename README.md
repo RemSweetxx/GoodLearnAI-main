@@ -1,2 +1,0 @@
-# GoodLearnAI-main
-GoodLearnAI-main
